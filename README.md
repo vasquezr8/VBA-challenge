@@ -15,7 +15,7 @@ VBA Color Index:
 
 https://www.automateexcel.com/excel-formatting/color-reference-for-color-index/
 
-Format Cells in VBA to a Percentage with 2 Decimal Points:
+Format Cells in VBA to a Percentage with 2 Decimal Places:
 (Found in line 46 of StockChecker5 Sub)
 
 https://www.exceldemy.com/vba-format-percentage-2-decimal-places/
