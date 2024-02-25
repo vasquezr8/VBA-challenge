@@ -6,7 +6,7 @@ In this homework assignment, I embarked on a journey to leverage VBA scripting t
 
 ## VBA Script Function/Goals
 
-1. **Script Creation**: I developed a VBA script that generated the following information for each stock:
+1. **Script Creation**: I developed a VBA script (found in the Module 2 Challenge VBA Script.txt file) that generated the following information for each stock:
    - Ticker symbol
    - Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year
    - Percentage change from the opening price to the closing price
